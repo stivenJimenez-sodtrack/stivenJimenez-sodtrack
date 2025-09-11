@@ -32,6 +32,8 @@
 
 💼 LinkedIn ➡️ [https://www.linkedin.com/in/stivenjimenez](https://www.linkedin.com/in/stivenjimenez)
 
+👨‍💻 Frontend & React Native developer
+
 <!-- 🐦 Twitter ➡️ [https://twitter.com/stivenjdev](https://twitter.com/stivenjdev) -->
 
 
