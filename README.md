@@ -34,7 +34,7 @@
 
 👨‍💻 Frontend & React Native developer (Encargado de la APP)
 
-🐦 Twitter ➡️ [https://twitter.com/stivenjdev](https://twitter.com/stivenjdev)
+<!--🐦 Twitter ➡️ [https://twitter.com/stivenjdev](https://twitter.com/stivenjdev)-->
 
 
  <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
